@@ -31,7 +31,7 @@ In this repository, we provide comprehensive guidance on how to deploy an AI mod
 
 ## Contact
 
-* Connect with me via email: lehoangvu260602@gmail.com
+* Connect with me via email: nguyentrongieu672@gmail.com
 
 ## Copyright
 
