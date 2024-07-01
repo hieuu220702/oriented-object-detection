@@ -1,0 +1,6 @@
+ultralytics
+onnx
+onnxruntime
+opencv-python-headless<4.3
+numpy==1.23.5
+pyrealsense2
